@@ -1,0 +1,7 @@
+a = input('Digite algo: ')
+print('O tipo primitivo desta variável é ', type(a))
+print('É um número? ', a.isalpha())
+print('É um número? ', a.isspace())
+print('É um número? ', a.islower())
+print('É um número? ', a.isnumeric())
+print('É um número? ', a.isprintable())
