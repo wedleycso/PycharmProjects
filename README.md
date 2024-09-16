@@ -50,4 +50,4 @@ Antes de partir, você precisará de:
 
 1. Clone este repositório para o seu castelo local:
    ```bash
-   git clone https://github.com/seu-usuario/python-quest.git
+      git clone [https://github.com/wedleycso/PycharmProjects.git]
